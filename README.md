@@ -2,6 +2,15 @@
 <h3 align="center">🚀 Aspiring Developer | 🤖 AI Enthusiast | 💻 Tech Learner</h3>
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/sakshi-taragi-6aa019435">
+    <img src="https://img.shields.io/badge/LinkedIn-Sakshi%20Taragi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/sakshi01-art">
+    <img src="https://img.shields.io/badge/GitHub-sakshi01--art-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=sakshi01-art&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
@@ -63,6 +72,9 @@ Learn 📚 → Build 💻 → Improve 🚀 → Repeat 🔁
 <p>
   <a href="https://github.com/sakshi01-art">
     <img src="https://img.shields.io/badge/GitHub-sakshi01--art-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/sakshi-taragi-6aa019435">
+    <img src="https://img.shields.io/badge/LinkedIn-Sakshi%20Taragi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
