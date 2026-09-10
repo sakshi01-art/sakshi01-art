@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F5AF0,100:2CB67D&height=240&section=header&text=Sakshi%20Taragi&fontSize=58&fontColor=FFFFFF&fontAlignY=38&desc=Computer%20Science%20%7C%20AI%20%7C%20Web%20Development%20%7C%20Cybersecurity&descAlignY=60&descSize=20&animation=fadeIn" width="100%" alt="Sakshi Taragi animated profile banner" />
+<img src="https://raw.githubusercontent.com/sakshi01-art/sakshi01-art/main/assets/profile-banner.svg" width="100%" alt="Sakshi Taragi animated developer banner" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=900&color=7F5AF0&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Sakshi+%F0%9F%91%8B;AI+%26+Python+Developer+in+Progress+%F0%9F%A4%96;Web+%26+Database+Developer+in+Progress+%F0%9F%8C%90;Learning+DSA+and+building+real-world+projects+%F0%9F%9A%80;Code+%E2%86%92+Learn+%E2%86%92+Build+%E2%86%92+Improve+%E2%9C%A8" alt="Animated introduction" />
 
@@ -135,7 +135,7 @@ Python learning project demonstrating authenticated encryption and secure softwa
 |---|---|
 | 🌐 Web Development | HTML, CSS, JavaScript, Bootstrap and practical projects |
 | 🗄️ Database | SQL, MySQL and DBMS concepts |
-| 🧩 OOP | Strongening object-oriented programming with C++ and Java |
+| 🧩 OOP | Strengthening object-oriented programming with C++ and Java |
 | 🤖 AI | Practical AI projects and experimentation |
 | 🐍 Python | Development, automation and problem solving |
 | 🛡️ Cybersecurity | Defensive security concepts and secure software |
