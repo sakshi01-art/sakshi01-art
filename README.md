@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F5AF0,100:2CB67D&height=240&section=header&text=Sakshi%20Taragi&fontSize=58&fontColor=FFFFFF&fontAlignY=38&desc=Computer%20Science%20%7C%20AI%20%7C%20Python%20%7C%20Cybersecurity&descAlignY=60&descSize=20&animation=fadeIn" width="100%" alt="Sakshi Taragi animated profile banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F5AF0,100:2CB67D&height=240&section=header&text=Sakshi%20Taragi&fontSize=58&fontColor=FFFFFF&fontAlignY=38&desc=Computer%20Science%20%7C%20AI%20%7C%20Web%20Development%20%7C%20Cybersecurity&descAlignY=60&descSize=20&animation=fadeIn" width="100%" alt="Sakshi Taragi animated profile banner" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=900&color=7F5AF0&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Sakshi+%F0%9F%91%8B;AI+%26+Python+Developer+in+Progress+%F0%9F%A4%96;Building+projects%2C+learning+every+day+%F0%9F%9A%80;Code+%E2%86%92+Learn+%E2%86%92+Build+%E2%86%92+Improve+%E2%9C%A8" alt="Animated introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=900&color=7F5AF0&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Sakshi+%F0%9F%91%8B;AI+%26+Python+Developer+in+Progress+%F0%9F%A4%96;Web+%26+Database+Developer+in+Progress+%F0%9F%8C%90;Learning+DSA+and+building+real-world+projects+%F0%9F%9A%80;Code+%E2%86%92+Learn+%E2%86%92+Build+%E2%86%92+Improve+%E2%9C%A8" alt="Animated introduction" />
 
 <p>
 <a href="https://github.com/sakshi01-art"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
@@ -16,29 +16,54 @@
 
 ## 👩‍💻 About Me
 
-I'm a **Computer Science student and aspiring developer** interested in AI, Python, Java, software development and defensive cybersecurity.
+I'm a **Computer Science student and aspiring developer** interested in AI, Python, Java, web development, databases and defensive cybersecurity.
 
 ```text
 🎓 Computer Science & Engineering
-🤖 Exploring Artificial Intelligence
 🐍 Building with Python
 ☕ Strengthening Java & OOP
+🌐 Exploring Web Development
+🗄️ Working with SQL & MySQL
 🛡️ Learning Defensive Cybersecurity
+🤖 Exploring Artificial Intelligence
+📚 Currently improving Data Structures & Algorithms
 🚀 Turning ideas into portfolio projects
-📚 Learning something new every day
 ```
 
 > 💜 **Build with curiosity. Learn with consistency. Improve with every commit.**
 
 ---
 
-## 🧰 Tech Stack
+## 🧰 Skills & Technologies
 
-<div align="center">
+### 💻 Programming
+<img src="https://skillicons.dev/icons?i=c,cpp,python,java&perline=8" alt="Programming languages" />
 
-<img src="https://skillicons.dev/icons?i=python,java,cpp,c,html,css,js,mysql,git,github,vscode&perline=11" alt="Tech stack" />
+### 🌐 Web Development
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap&perline=8" alt="Web development technologies" />
 
-</div>
+### 🗄️ Database
+<img src="https://skillicons.dev/icons?i=mysql&perline=8" alt="Database technologies" />
+
+**SQL • MySQL • Database Management Systems (DBMS)**
+
+### 🧩 Object-Oriented Programming
+**Classes & Objects • Encapsulation • Inheritance • Polymorphism • Abstraction • Method Overloading & Overriding**
+
+### 🔐 Cybersecurity & Cryptography
+**Cybersecurity Basics • Encryption • AES • Secure Software Concepts**
+
+### 🤖 AI / ML
+**AI/ML Basics • Python-based experimentation • Intelligent application concepts**
+
+### 🧠 Core Computer Science
+**OOP • DBMS • Computer Networks • Programming Fundamentals**
+
+### 📚 Currently Learning
+**Data Structures & Algorithms (DSA) • Problem Solving • Advanced Coding Practice**
+
+### 🛠️ Tools
+<img src="https://skillicons.dev/icons?i=git,github,vscode&perline=8" alt="Development tools" />
 
 ---
 
@@ -108,12 +133,14 @@ Python learning project demonstrating authenticated encryption and secure softwa
 
 | 🚀 Area | 📌 Focus |
 |---|---|
+| 🌐 Web Development | HTML, CSS, JavaScript, Bootstrap and practical projects |
+| 🗄️ Database | SQL, MySQL and DBMS concepts |
+| 🧩 OOP | Strongening object-oriented programming with C++ and Java |
 | 🤖 AI | Practical AI projects and experimentation |
 | 🐍 Python | Development, automation and problem solving |
-| ☕ Java | OOP, application development and interview preparation |
 | 🛡️ Cybersecurity | Defensive security concepts and secure software |
+| 📚 DSA | Actively learning data structures and algorithms |
 | 💻 GitHub | Clean repositories, documentation and consistent commits |
-| 📚 Career | Building an internship/job-ready portfolio |
 
 ---
 
@@ -132,15 +159,18 @@ Python learning project demonstrating authenticated encryption and secure softwa
 - 🤖 **NEXA-AI** — exploring AI-powered ideas
 - 🛡️ **SentinelAI** — learning defensive security monitoring
 - 🔐 **AES-256-GCM** — exploring authenticated encryption and secure software design
+- 🌐 **Web & Database Projects** — building practical development skills
+- 📚 **DSA Practice** — improving problem-solving step by step
 
 ---
 
 ## 📌 Portfolio Goals
 
 - Build more **real-world projects**
-- Improve **problem-solving and coding fundamentals**
+- Strengthen **Web Development & Database skills**
+- Improve **OOP and programming fundamentals**
+- Learn **DSA through consistent practice**
 - Write better **documentation and clean code**
-- Learn through **hands-on implementation**
 - Create a strong **internship/job-ready GitHub portfolio**
 
 ---
