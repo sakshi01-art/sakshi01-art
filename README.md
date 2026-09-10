@@ -67,15 +67,11 @@ I'm passionate about turning ideas into practical projects. I enjoy **Web Develo
 <h2 align="center">📚 Currently Learning</h2>
 
 <div align="center">
-
 <img src="https://img.shields.io/badge/DSA-Actively%20Learning-7F5AF0?style=for-the-badge&logo=leetcode&logoColor=white" />
 <img src="https://img.shields.io/badge/Problem%20Solving-Improving-2CB67D?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Advanced%20Coding-Practice-F59E0B?style=for-the-badge" />
-
 <br/><br/>
-
 **🌱 Learn → Practice → Build → Improve**
-
 </div>
 
 ---
@@ -123,9 +119,17 @@ Learning authenticated encryption and secure software design concepts.
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=sakshi01-art&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=transparent" height="170" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sakshi01-art&hide_border=true&theme=transparent" height="170" />
+<img src="https://streak-stats.demolab.com?user=sakshi01-art&hide_border=true&theme=transparent" height="170" />
 <br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakshi01-art&layout=compact&hide_border=true&langs_count=8&theme=transparent" height="145" />
+</div>
+
+<br/>
+
+<h3 align="center">📈 Contribution Overview</h3>
+
+<div align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sakshi01-art&theme=github_dark" width="95%" alt="GitHub contribution overview" />
 </div>
 
 ---
@@ -133,7 +137,7 @@ Learning authenticated encryption and secure software design concepts.
 <h2 align="center">🐍 Contribution Journey</h2>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="90%" alt="Contribution snake animation" />
+<img src="https://raw.githubusercontent.com/sakshi01-art/sakshi01-art/output/github-contribution-grid-snake.svg" width="90%" alt="Contribution snake animation" />
 </div>
 
 ---
@@ -193,10 +197,8 @@ Learning authenticated encryption and secure software design concepts.
 <h2 align="center">🏆 Portfolio Goals</h2>
 
 <div align="center">
-
 **🚀 Real-world Projects** &nbsp; • &nbsp; **💻 Clean Code** &nbsp; • &nbsp; **📚 Strong DSA**  
 **🌐 Web + Database** &nbsp; • &nbsp; **🧩 OOP** &nbsp; • &nbsp; **🤖 AI + Security**
-
 </div>
 
 ---
@@ -204,15 +206,10 @@ Learning authenticated encryption and secure software design concepts.
 <h2 align="center">🤝 Let's Connect</h2>
 
 <div align="center">
-
 <a href="https://www.linkedin.com/in/sakshi-taragi-6aa019435"><img src="https://img.shields.io/badge/LinkedIn-Sakshi%20Taragi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://github.com/sakshi01-art"><img src="https://img.shields.io/badge/GitHub-sakshi01--art-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-
 <br/><br/>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2CB67D,100:7F5AF0&height=130&section=footer&animation=twinkling" width="100%" />
-
 ### ⭐ Thanks for visiting!
 **Keep learning • Keep building • Keep growing 🚀**
-
 </div>
