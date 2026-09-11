@@ -80,7 +80,7 @@ I'm passionate about turning ideas into practical projects. I enjoy **Web Develo
 
 <table>
 <tr>
-<td width="33%" align="center">
+<td width="25%" align="center">
 
 ## 🤖 NEXA-AI
 **AI • Python • Innovation**
@@ -90,7 +90,7 @@ Exploring intelligent application ideas and practical AI development.
 <a href="https://github.com/sakshi01-art/NEXA-AI"><img src="https://img.shields.io/badge/VIEW%20PROJECT-7F5AF0?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </td>
-<td width="33%" align="center">
+<td width="25%" align="center">
 
 ## 🛡️ SentinelAI
 **Security • Monitoring • Python**
@@ -100,7 +100,7 @@ Educational defensive-security project focused on understandable security events
 <a href="https://github.com/sakshi01-art/SentinelAI"><img src="https://img.shields.io/badge/VIEW%20PROJECT-2CB67D?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </td>
-<td width="33%" align="center">
+<td width="25%" align="center">
 
 ## 🔐 AES-256-GCM
 **Cryptography • Python • Security**
@@ -108,6 +108,16 @@ Educational defensive-security project focused on understandable security events
 Learning authenticated encryption and secure software design concepts.
 
 <a href="https://github.com/sakshi01-art/AES"><img src="https://img.shields.io/badge/VIEW%20PROJECT-F59E0B?style=for-the-badge&logo=github&logoColor=white" /></a>
+
+</td>
+<td width="25%" align="center">
+
+## 🌊 JalChakra AI
+**AI • Water • Agriculture**
+
+AI-powered planning concept for spring revival, recharge and sustainable water management.
+
+<a href="https://github.com/sakshi01-art/jalchakra_ai"><img src="https://img.shields.io/badge/VIEW%20PROJECT-2196F3?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </td>
 </tr>
@@ -187,6 +197,7 @@ Learning authenticated encryption and secure software design concepts.
 | 🤖 **NEXA-AI** | AI + Python |
 | 🛡️ **SentinelAI** | Defensive Security |
 | 🔐 **AES-256-GCM** | Cryptography |
+| 🌊 **JalChakra AI** | AI + Water + Agriculture |
 | 🌐 **Web Projects** | Frontend + Database |
 | 📚 **DSA Practice** | Problem Solving |
 
