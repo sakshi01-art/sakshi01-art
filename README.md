@@ -2,12 +2,12 @@
 
 <img src="https://raw.githubusercontent.com/sakshi01-art/sakshi01-art/main/assets/profile-banner.svg" width="100%" alt="Sakshi Taragi animated developer banner" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=900&color=7F5AF0&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Sakshi+%F0%9F%91%8B;BTech+CSE+Student+%F0%9F%92%BB;AI+%26+Python+Developer+in+Progress+%F0%9F%A4%96;Web+%26+Database+Developer+in+Progress+%F0%9F%8C%90;DSA+%7C+OOP+%7C+Problem+Solving+%F0%9F%A7%A9;Code+%E2%86%92+Build+%E2%86%92+Learn+%E2%86%92+Improve+%E2%9C%A8" alt="Animated introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=900&color=006400&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Sakshi+%F0%9F%91%8B;BTech+CSE+Student+%F0%9F%92%BB;AI+%26+Python+Developer+in+Progress+%F0%9F%A4%96;Web+%26+Database+Developer+in+Progress+%F0%9F%8C%90;DSA+%7C+OOP+%7C+Problem+Solving+%F0%9F%A7%A9;Code+%E2%86%92+Build+%E2%86%92+Learn+%E2%86%92+Improve+%E2%9C%A8" alt="Animated introduction" />
 
 <p>
-<a href="https://github.com/sakshi01-art"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/sakshi-taragi-6aa019435"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<img src="https://komarev.com/ghpvc/?username=sakshi01-art&label=PROFILE%20VIEWS&color=7F5AF0&style=for-the-badge" />
+<a href="https://github.com/sakshi01-art"><img src="https://img.shields.io/badge/GitHub-Profile-004d00?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/sakshi-taragi-6aa019435"><img src="https://img.shields.io/badge/LinkedIn-Connect-006400?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<img src="https://komarev.com/ghpvc/?username=sakshi01-art&label=PROFILE%20VIEWS&color=006400&style=for-the-badge" />
 </p>
 
 </div>
@@ -34,10 +34,10 @@ I enjoy turning ideas into practical projects and continuously improving my codi
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/SQL-Database-blue?style=for-the-badge" />
-<img src="https://img.shields.io/badge/OOP-C%2B%2B%20%7C%20Java-green?style=for-the-badge" />
-<img src="https://img.shields.io/badge/DSA-Actively%20Learning-7F5AF0?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Cryptography-AES-orange?style=for-the-badge" />
+<img src="https://img.shields.io/badge/SQL-Database-006400?style=for-the-badge" />
+<img src="https://img.shields.io/badge/OOP-C%2B%2B%20%7C%20Java-004d00?style=for-the-badge" />
+<img src="https://img.shields.io/badge/DSA-Actively%20Learning-006400?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Cryptography-AES-005500?style=for-the-badge" />
 
 </div>
 
@@ -51,19 +51,19 @@ I enjoy turning ideas into practical projects and continuously improving my codi
 <h3>🤖 NEXA-AI</h3>
 <p><b>AI • Python • Innovation</b></p>
 <p>Practical AI application development and intelligent solution concepts.</p>
-<a href="https://github.com/sakshi01-art/NEXA-AI"><img src="https://img.shields.io/badge/VIEW%20PROJECT-7F5AF0?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://github.com/sakshi01-art/NEXA-AI"><img src="https://img.shields.io/badge/VIEW%20PROJECT-006400?style=for-the-badge&logo=github&logoColor=white" /></a>
 </td>
 <td width="33%" align="center">
 <h3>🛡️ SentinelAI</h3>
 <p><b>Security • Monitoring • Python</b></p>
 <p>Educational defensive-security project focused on security events and risk information.</p>
-<a href="https://github.com/sakshi01-art/SentinelAI"><img src="https://img.shields.io/badge/VIEW%20PROJECT-2CB67D?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://github.com/sakshi01-art/SentinelAI"><img src="https://img.shields.io/badge/VIEW%20PROJECT-005500?style=for-the-badge&logo=github&logoColor=white" /></a>
 </td>
 <td width="33%" align="center">
 <h3>🌊 JalChakra AI</h3>
 <p><b>AI • Water • Agriculture</b></p>
 <p>AI-powered planning concept for spring revival, recharge and sustainable water management.</p>
-<a href="https://github.com/sakshi01-art/jalchakra_ai"><img src="https://img.shields.io/badge/VIEW%20PROJECT-2196F3?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://github.com/sakshi01-art/jalchakra_ai"><img src="https://img.shields.io/badge/VIEW%20PROJECT-006400?style=for-the-badge&logo=github&logoColor=white" /></a>
 </td>
 </tr>
 <tr>
@@ -71,13 +71,13 @@ I enjoy turning ideas into practical projects and continuously improving my codi
 <h3>🔐 AES</h3>
 <p><b>Cryptography • Python • Security</b></p>
 <p>Practice project exploring authenticated encryption and secure software concepts.</p>
-<a href="https://github.com/sakshi01-art/AES"><img src="https://img.shields.io/badge/VIEW%20PROJECT-F59E0B?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://github.com/sakshi01-art/AES"><img src="https://img.shields.io/badge/VIEW%20PROJECT-004d00?style=for-the-badge&logo=github&logoColor=white" /></a>
 </td>
 <td width="33%" align="center">
 <h3>🧩 LeetCode Solutions</h3>
 <p><b>DSA • C++ • Problem Solving</b></p>
 <p>A growing collection of coding problems solved while learning DSA.</p>
-<a href="https://github.com/sakshi01-art/leetcode---solutions"><img src="https://img.shields.io/badge/VIEW%20DSA-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://github.com/sakshi01-art/leetcode---solutions"><img src="https://img.shields.io/badge/VIEW%20DSA-006400?style=for-the-badge&logo=github&logoColor=white" /></a>
 </td>
 <td width="33%" align="center">
 <h3>🌐 Web Projects</h3>
@@ -93,10 +93,10 @@ I enjoy turning ideas into practical projects and continuously improving my codi
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/DSA-Problem%20Solving-7F5AF0?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Python-Practical%20Development-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Web-Development-2CB67D?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Database-SQL%20%7C%20MySQL-F59E0B?style=for-the-badge" />
+<img src="https://img.shields.io/badge/DSA-Problem%20Solving-006400?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Python-Practical%20Development-006400?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Web-Development-005500?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Database-SQL%20%7C%20MySQL-004d00?style=for-the-badge" />
 
 <br/><br/>
 
@@ -109,10 +109,10 @@ I enjoy turning ideas into practical projects and continuously improving my codi
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=sakshi01-art&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=transparent" height="170" />
-<img src="https://streak-stats.demolab.com?user=sakshi01-art&hide_border=true&theme=transparent" height="170" />
+<img src="https://github-readme-stats.vercel.app/api?username=sakshi01-art&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=transparent&title_color=006400&icon_color=006400&text_color=006400" height="170" />
+<img src="https://streak-stats.demolab.com?user=sakshi01-art&hide_border=true&theme=transparent&ring=006400&fire=006400&currStreakLabel=006400&sideLabels=006400&dates=006400" height="170" />
 <br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakshi01-art&layout=compact&hide_border=true&langs_count=8&theme=transparent" height="145" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakshi01-art&layout=compact&hide_border=true&langs_count=8&theme=transparent&title_color=006400&text_color=006400" height="145" />
 </div>
 
 <br/>
@@ -170,10 +170,10 @@ I enjoy turning ideas into practical projects and continuously improving my codi
 <h2 align="center">🤝 Let's Connect</h2>
 
 <div align="center">
-<a href="https://www.linkedin.com/in/sakshi-taragi-6aa019435"><img src="https://img.shields.io/badge/LinkedIn-Sakshi%20Taragi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://github.com/sakshi01-art"><img src="https://img.shields.io/badge/GitHub-sakshi01--art-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/sakshi-taragi-6aa019435"><img src="https://img.shields.io/badge/LinkedIn-Sakshi%20Taragi-006400?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/sakshi01-art"><img src="https://img.shields.io/badge/GitHub-sakshi01--art-004d00?style=for-the-badge&logo=github&logoColor=white" /></a>
 <br/><br/>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2CB67D,100:7F5AF0&height=130&section=footer&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:003d00,50:006400,100:0a7a0a&height=130&section=footer&animation=twinkling" width="100%" />
 
 ### ⭐ Thanks for visiting!
 **Keep learning • Keep building • Keep growing 🚀**
