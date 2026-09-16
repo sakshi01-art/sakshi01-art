@@ -4,7 +4,7 @@
 
 # 👋 Hi, I'm Sakshi Taragi
 
-### 💻 BTech CSE Student | Web & Database Developer | AI & Python Learner
+### 💻 BTech CSE Student • Web & Database Developer • AI & Python Learner
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&color=7F5AF0&center=true&vCenter=true&width=900&lines=Code+%E2%86%92+Build+%E2%86%92+Learn+%E2%86%92+Improve;Web+Development+%7C+Databases+%7C+OOP;AI+%26+Python+Projects;DSA+%7C+Problem+Solving+%7C+LeetCode" alt="Typing introduction" />
 
@@ -20,32 +20,29 @@
 
 ## 🌟 About Me
 
-> **I learn by building.**
+> **I learn by building.** 🚀
 
-I'm a BTech Computer Science student who enjoys turning ideas into practical software projects. My strongest interests are **Web Development, Databases, OOP, Python and AI**, while I am actively strengthening **DSA and problem-solving** through LeetCode practice.
+I'm a BTech Computer Science student who enjoys turning ideas into practical software projects. My main interests are **Web Development, Databases, OOP, Python and AI**, while I am actively strengthening **DSA and problem-solving** through LeetCode practice.
 
-- 🎓 Computer Science & Engineering student
-- 🌐 Interested in **Web Development & Database Systems**
-- 🧠 Building strong foundations in **DSA & Problem Solving**
+- 🎓 BTech Computer Science & Engineering student
+- 🌐 **Web Development + Database** focused
+- 🧩 Comfortable with **OOP** and programming fundamentals
+- 🧠 Actively learning **DSA & problem solving**
 - 🤖 Exploring **AI + Python** through projects
-- 🔐 Interested in **Cybersecurity & Cryptography**
-- 🚀 Goal: become a strong, practical software developer
+- 🔐 Building projects around **security & cryptography**
+- 🚀 Goal: become a strong practical software developer
 
 ---
 
-## 🛠️ Skills & Technologies
+## 🛠️ Tech Stack
 
 <div align="center">
-
 <img src="https://skillicons.dev/icons?i=c,cpp,python,java,html,css,js,bootstrap,mysql,git,github,vscode&perline=6" />
-
 <br/><br/>
-
 <img src="https://img.shields.io/badge/Web%20Development-HTML%20%7C%20CSS%20%7C%20JavaScript-2CB67D?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Database-MySQL%20%7C%20SQL-F59E0B?style=for-the-badge" />
-<img src="https://img.shields.io/badge/OOP-C%2B%2B%20%7C%20Java-green?style=for-the-badge" />
-<img src="https://img.shields.io/badge/DSA-Actively%20Learning-7F5AF0?style=for-the-badge" />
-
+<img src="https://img.shields.io/badge/OOP-C%2B%2B%20%7C%20Java-7F5AF0?style=for-the-badge" />
+<img src="https://img.shields.io/badge/DSA-Actively%20Learning-2196F3?style=for-the-badge" />
 </div>
 
 ---
@@ -57,42 +54,42 @@ I'm a BTech Computer Science student who enjoys turning ideas into practical sof
 <td width="50%" align="center">
 <h3>🤖 NEXA-AI</h3>
 <p>AI-focused project exploring practical intelligent software ideas.</p>
-<a href="https://github.com/sakshi01-art/NEXA-AI"><img src="https://img.shields.io/badge/Explore%20Project-7F5AF0?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://github.com/sakshi01-art/NEXA-AI"><img src="https://img.shields.io/badge/VIEW%20PROJECT-7F5AF0?style=for-the-badge&logo=github&logoColor=white" /></a>
 </td>
 <td width="50%" align="center">
 <h3>🛡️ SentinelAI</h3>
 <p>Security-focused project exploring monitoring and defensive concepts.</p>
-<a href="https://github.com/sakshi01-art/SentinelAI"><img src="https://img.shields.io/badge/Explore%20Project-2CB67D?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://github.com/sakshi01-art/SentinelAI"><img src="https://img.shields.io/badge/VIEW%20PROJECT-2CB67D?style=for-the-badge&logo=github&logoColor=white" /></a>
 </td>
 </tr>
 <tr>
 <td width="50%" align="center">
 <h3>🌊 JalChakra AI</h3>
-<p>AI-based spring revival, recharge planning and water-to-agriculture concept for tribal areas.</p>
-<a href="https://github.com/sakshi01-art/jalchakra_ai"><img src="https://img.shields.io/badge/Explore%20Project-2196F3?style=for-the-badge&logo=github&logoColor=white" /></a>
+<p>AI-driven spring revival, recharge planning and water-to-agriculture planning for tribal areas.</p>
+<a href="https://github.com/sakshi01-art/jalchakra_ai"><img src="https://img.shields.io/badge/VIEW%20PROJECT-2196F3?style=for-the-badge&logo=github&logoColor=white" /></a>
 </td>
 <td width="50%" align="center">
 <h3>🔐 AES</h3>
 <p>Cryptography project focused on encryption and secure software concepts.</p>
-<a href="https://github.com/sakshi01-art/AES"><img src="https://img.shields.io/badge/Explore%20Project-F59E0B?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://github.com/sakshi01-art/AES"><img src="https://img.shields.io/badge/VIEW%20PROJECT-F59E0B?style=for-the-badge&logo=github&logoColor=white" /></a>
 </td>
 </tr>
 <tr>
 <td width="50%" align="center">
 <h3>🧩 LeetCode Solutions</h3>
-<p>Growing DSA practice repository with C++ solutions and problem-solving notes.</p>
-<a href="https://github.com/sakshi01-art/leetcode---solutions"><img src="https://img.shields.io/badge/Explore%20DSA-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<p>DSA practice repository with C++ solutions, organized by problem and topic.</p>
+<a href="https://github.com/sakshi01-art/leetcode---solutions"><img src="https://img.shields.io/badge/VIEW%20DSA-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </td>
 <td width="50%" align="center">
 <h3>🌐 Web + Database</h3>
-<p>Practical web and database projects built while learning full-stack fundamentals.</p>
+<p>Practical projects built while strengthening web development and SQL/database fundamentals.</p>
 </td>
 </tr>
 </table>
 
 ---
 
-## 📚 Current Learning Path
+## 📚 Current Learning Journey
 
 ```text
 🌐 Web Development  ────────► Build practical websites
@@ -108,14 +105,10 @@ I'm a BTech Computer Science student who enjoys turning ideas into practical sof
 ## 📊 GitHub Activity
 
 <div align="center">
-
 <img src="https://github-readme-stats.vercel.app/api?username=sakshi01-art&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=transparent" height="170" />
 <img src="https://streak-stats.demolab.com?user=sakshi01-art&hide_border=true&theme=transparent" height="170" />
-
 <br/>
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakshi01-art&layout=compact&hide_border=true&langs_count=8&theme=transparent" height="145" />
-
 </div>
 
 ---
@@ -138,19 +131,17 @@ I'm a BTech Computer Science student who enjoys turning ideas into practical sof
 | 🌐 Web | Build better real-world projects |
 | 🗄️ Database | Improve SQL & database design |
 | 🤖 AI | Build useful AI + Python applications |
-| 🚀 Portfolio | Make projects cleaner, documented & deployable |
+| 🚀 Portfolio | Cleaner, documented & deployable projects |
 
 </div>
 
 ---
 
-## 💡 My Developer Mindset
+## 💡 Developer Mindset
 
 <div align="center">
 
 **IDEA** 💡 → **LEARN** 📚 → **BUILD** 🛠️ → **TEST** 🧪 → **SHARE** 🚀 → **IMPROVE** 🔁
-
-<br/><br/>
 
 ### 🌱 Learn → Practice → Build → Improve
 
@@ -161,12 +152,9 @@ I'm a BTech Computer Science student who enjoys turning ideas into practical sof
 ## 🤝 Let's Connect
 
 <div align="center">
-
 <a href="https://www.linkedin.com/in/sakshi-taragi-6aa019435"><img src="https://img.shields.io/badge/LinkedIn-Sakshi%20Taragi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://github.com/sakshi01-art"><img src="https://img.shields.io/badge/GitHub-sakshi01--art-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-
 <br/><br/>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2CB67D,100:7F5AF0&height=130&section=footer&animation=twinkling" width="100%" />
 
 **⭐ Thanks for visiting my profile!**
