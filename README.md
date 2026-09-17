@@ -4,7 +4,7 @@
 
 # 👋 Hi, I'm Sakshi Taragi
 
-### 💻 BTech CSE Student • Web & Database Developer • AI & Python Learner
+### 💻 BTech CSE Student | Web & Database Developer | AI + Python Learner
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&color=7F5AF0&center=true&vCenter=true&width=900&lines=Code+%E2%86%92+Build+%E2%86%92+Learn+%E2%86%92+Improve;Web+Development+%7C+Databases+%7C+OOP;AI+%26+Python+Projects;DSA+%7C+Problem+Solving+%7C+LeetCode" alt="Typing introduction" />
 
@@ -20,17 +20,31 @@
 
 ## 🌟 About Me
 
-> **I learn by building.** 🚀
+> **Building ideas into projects, one commit at a time. 🚀**
 
-I'm a BTech Computer Science student who enjoys turning ideas into practical software projects. My main interests are **Web Development, Databases, OOP, Python and AI**, while I am actively strengthening **DSA and problem-solving** through LeetCode practice.
+I'm a BTech Computer Science student focused on **Web Development, Databases and OOP**, while exploring **Python, AI and DSA** through hands-on projects and LeetCode practice.
 
 - 🎓 BTech Computer Science & Engineering student
-- 🌐 **Web Development + Database** focused
-- 🧩 Comfortable with **OOP** and programming fundamentals
-- 🧠 Actively learning **DSA & problem solving**
-- 🤖 Exploring **AI + Python** through projects
-- 🔐 Building projects around **security & cryptography**
-- 🚀 Goal: become a strong practical software developer
+- 🌐 Web Development + Database focused
+- 🧩 OOP + programming fundamentals
+- 🧠 DSA & problem solving — currently learning and practicing
+- 🤖 AI + Python project exploration
+- 🔐 Security & cryptography project experience
+- 🚀 Interested in building practical software
+
+---
+
+## ⚡ Quick Snapshot
+
+<div align="center">
+
+| 💻 Focus | 🚀 Currently Building | 🧠 Practicing |
+|:---:|:---:|:---:|
+| Web + Database | AI & software projects | DSA + LeetCode |
+| OOP | Practical applications | Problem Solving |
+| Python + Java | Portfolio projects | Coding consistency |
+
+</div>
 
 ---
 
@@ -65,7 +79,7 @@ I'm a BTech Computer Science student who enjoys turning ideas into practical sof
 <tr>
 <td width="50%" align="center">
 <h3>🌊 JalChakra AI</h3>
-<p>AI-driven spring revival, recharge planning and water-to-agriculture planning for tribal areas.</p>
+<p>AI-driven spring revival, recharge planning and water-to-agriculture planning.</p>
 <a href="https://github.com/sakshi01-art/jalchakra_ai"><img src="https://img.shields.io/badge/VIEW%20PROJECT-2196F3?style=for-the-badge&logo=github&logoColor=white" /></a>
 </td>
 <td width="50%" align="center">
@@ -77,19 +91,29 @@ I'm a BTech Computer Science student who enjoys turning ideas into practical sof
 <tr>
 <td width="50%" align="center">
 <h3>🧩 LeetCode Solutions</h3>
-<p>DSA practice repository with C++ solutions, organized by problem and topic.</p>
+<p>DSA practice repository with organized C++ solutions and topic-based learning.</p>
 <a href="https://github.com/sakshi01-art/leetcode---solutions"><img src="https://img.shields.io/badge/VIEW%20DSA-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </td>
 <td width="50%" align="center">
 <h3>🌐 Web + Database</h3>
-<p>Practical projects built while strengthening web development and SQL/database fundamentals.</p>
+<p>Practical projects for strengthening frontend, SQL and database fundamentals.</p>
 </td>
 </tr>
 </table>
 
 ---
 
-## 📚 Current Learning Journey
+## 📚 My Learning Loop
+
+<div align="center">
+
+**💡 IDEA** → **📚 LEARN** → **🛠️ BUILD** → **🧪 TEST** → **🚀 SHARE** → **🔁 IMPROVE**
+
+</div>
+
+---
+
+## 🎯 Current Focus
 
 ```text
 🌐 Web Development  ────────► Build practical websites
@@ -132,18 +156,6 @@ I'm a BTech Computer Science student who enjoys turning ideas into practical sof
 | 🗄️ Database | Improve SQL & database design |
 | 🤖 AI | Build useful AI + Python applications |
 | 🚀 Portfolio | Cleaner, documented & deployable projects |
-
-</div>
-
----
-
-## 💡 Developer Mindset
-
-<div align="center">
-
-**IDEA** 💡 → **LEARN** 📚 → **BUILD** 🛠️ → **TEST** 🧪 → **SHARE** 🚀 → **IMPROVE** 🔁
-
-### 🌱 Learn → Practice → Build → Improve
 
 </div>
 
