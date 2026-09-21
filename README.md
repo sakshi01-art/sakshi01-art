@@ -172,3 +172,13 @@ I'm a BTech Computer Science student focused on **Web Development, Databases and
 **⭐ Thanks for visiting my profile!**
 
 </div>
+
+---
+
+## 🔥 Latest Update — 21 September 2026
+
+- Added focused development notes across the portfolio repositories.
+- Documented the NEXA-AI development workflow, SentinelAI defensive design, and AES-GCM design concepts.
+- Documented the JALCHAKRA AI Spring-to-Farm decision model.
+- Added a reusable DSA problem-solving workflow to the LeetCode repository.
+- Keeping the portfolio centered on Web Development, Databases, OOP, AI/Python and DSA learning.
